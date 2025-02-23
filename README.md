@@ -1,4 +1,4 @@
-# JS React Movies Frontend
+# ReactJS Movies Frontend
 
 # Getting Started with Create React App
 
