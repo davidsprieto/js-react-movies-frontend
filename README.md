@@ -1,4 +1,4 @@
-# ReactJS Movies Frontend
+<h1 align=center>ReactJS Movies Frontend</h1>
 
 # Getting Started with Create React App
 
