@@ -1,4 +1,4 @@
-<h1 align="center">React Movies API Frontend</h1>
+JS React Movies Frontend
 
 # Getting Started with Create React App
 
