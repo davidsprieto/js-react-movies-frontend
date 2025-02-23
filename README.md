@@ -1,5 +1,9 @@
 <h1 align=center>ReactJS Movies Frontend</h1>
 
+Front-end of full stack web application developed with:
+- JavaScript
+- ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
