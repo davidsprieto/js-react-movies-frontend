@@ -1,4 +1,4 @@
-<h1 align=center>ReactJS Movies Frontend</h1>
+<h1 align=center>Movies Frontend</h1>
 
 Front-end of full stack web application developed with:
 - JavaScript
